@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Chat Bots**
-
-- 🌱 I’m currently learning **AI&ML,Frameworks,DS,etc**
+- 🌱 I’m currently learning **AI&ML,Data Science,Frameworks,DS,etc**
 
 - 👨‍💻 All of my projects are available at [Coming Very soon!](Coming Very soon!)
 
