@@ -60,6 +60,7 @@
 - **13 Deep Learning Vision Projects**  
   Object detection, recognition & AI vision apps with Streamlit UI
 
+
 ---
 
 ### 🌐 Connect With Me
@@ -86,7 +87,7 @@ Python | Java | C | JavaScript
 TensorFlow | PyTorch | Scikit-Learn | OpenCV | NLP  
 
 **Web:**  
-HTML | CSS | React | Flask | FastAPI | Streamlit  
+HTML | CSS | React | FastAPI | Streamlit  
 
 **Tools:**  
 Git | GitHub | VS Code | Figma | Postman | Jupyter  
