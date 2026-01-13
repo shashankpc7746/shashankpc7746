@@ -1,15 +1,24 @@
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+<p align="center">
+  <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"
+       alt="MasterHead"
+       height="450"
+       style="max-width: 100%; object-fit: cover;" />
+</p>
 
 <h1 align="center">Hi 👋, I'm Shashank Gupta</h1>
-<h3 align="center">AI & Data Science Engineer | ML Developer | Creative Technologist</h3>
 
-<img align="right" alt="AI Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=40&lines=AI+%26+Data+Science+Engineer+%7C+ML+Developer+%7C+Creative+Technologist" alt="Typing SVG" />
+  </a>
+</p>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=shashankpc7746&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
 ---
+<img align="right" alt="AI Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 ### 🚀 About Me
 
@@ -113,10 +122,12 @@ Git | GitHub | VS Code | Figma | Postman | Jupyter
 
 ---
 
-### ⚡ Fun Fact
-
-I build AI systems that **think, see, speak, and animate** 🤖🎬
-
----
-
 <h3 align="center">⭐ If you like my work, consider following me!</h3>
+
+<hr />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling" 
+       width="100%" 
+  />
+</div>
