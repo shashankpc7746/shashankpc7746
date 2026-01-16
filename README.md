@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&height=40&lines=AI+%26+Data+Science+Engineer+%7C+ML+Developer+%7C+Creative+Technologist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&height=40&lines=AI+%26+Data+Science+Engineer+%7C+ML+Developer+%7C+Creative+Technologist" alt="Typing SVG" />
   </a>
 </p>
 
@@ -17,103 +17,57 @@
   <img src="https://komarev.com/ghpvc/?username=shashankpc7746&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
----
+<p align="center">
+
+<a href="https://www.linkedin.com/in/shashank-gupta-a7a612277" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin&size=48" /></a>&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:shashankgupta7746@gmail.com" target="_blank">
+<img src="https://skillicons.dev/icons?i=gmail&size=48" /></a>&nbsp;&nbsp;&nbsp;
+
+<a href="https://shashank-gupta-portfolio.vercel.app" target="_blank">
+<img src="https://img.icons8.com/fluency/48/domain.png" width="48"/></a>
+
+</p>
+
+##
 <img align="right" alt="AI Coding" width="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 ### 🚀 About Me
 
-- 🎓 Artificial Intelligence & Data Science student at Mumbai University  
-- 💡 Passionate about Machine Learning, Deep Learning & Generative AI  
-- 🧠 Building AI-powered educational & animation platforms  
-- ⚙️ Love creating full-stack AI systems with clean UI + strong backend  
-- 🌍 Exploring research-oriented MS opportunities in AI  
+- 🎓 AI & Data Science student at Mumbai University  
+- 🤖 Enjoy building intelligent systems and AI-powered applications  
+- 🎨 Combine technology with creativity to craft engaging user experiences  
+- ⚙️ Love turning ideas into full-stack AI solutions  
+- 🚀 Constantly learning and exploring new AI technologies  
 
----
-
-### 💼 Experience
-
-- **AI/ML Intern – RV Tech Learn**  
-  Worked on ML, NLP & Deep Learning projects with real-world deployment
-
-- **AI & ML Intern – IBM SkillsBuild**  
-  Built intelligent models and data-driven solutions
-
-- **Web Developer Intern – Levaze Digital**  
-  Developed *Blogosphere* – a dynamic responsive blogging platform
-
-- **Data Analytics Intern – IBM SkillsBuild**  
-  Performed data visualization & analytical modeling
-
----
-
-### 🧩 Featured Projects
-
-- **Gurukul AI Animation Platform**  
-  Motion-aware character animation using AnimateDiff + SadTalker + TTS
-
-- **Aptitude Web AI**  
-  Smart aptitude testing platform with analytics & personalized learning
-
-- **Blogosphere**  
-  Fully responsive multi-user blogging website
-
-- **13 Deep Learning Vision Projects**  
-  Object detection, recognition & AI vision apps with Streamlit UI
-
-
----
-
-### 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/shashank-gupta-a7a612277" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/></a>
-
-<a href="mailto:shashankgupta7746@gmail.com" target="_blank">
-<img src="https://img.icons8.com/fluency/48/gmail-new.png" width="40"/></a>
-
-<a href="https://shashank-gupta-portfolio.vercel.app" target="_blank">
-<img src="https://img.icons8.com/fluency/48/domain.png" width="40"/></a>
-</p>
-
----
+##
 
 ### 🛠️ Tech Stack
 
-**Languages:**  
-Python | Java | C | JavaScript  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,javascript,tensorflow,pytorch,scikitlearn,opencv,html,css,react,fastapi,git,github,vscode&size=48" />
+</p>
 
-**AI/ML:**  
-TensorFlow | PyTorch | Scikit-Learn | OpenCV | NLP  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,postman,pycharm,eclipse,googlecloud,aws&size=48" /><br>
+  &nbsp;&nbsp;<br>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white" height="48"/>
+  <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white" height="48"/>
+</p>
 
-**Web:**  
-HTML | CSS | React | FastAPI | Streamlit  
 
-**Tools:**  
-Git | GitHub | VS Code | Figma | Postman | Jupyter  
-
----
+##
 
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shashankpc7746&show_icons=true&theme=tokyonight" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shashankpc7746&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=shashankpc7746&show_icons=true&theme=dracula&hide_border=true" height="160"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shashankpc7746&layout=compact&theme=dracula&hide_border=true" height="160"/>
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashankpc7746&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shashankpc7746&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
+##
 
 ### 📈 Contribution Graph
 
@@ -125,7 +79,7 @@ Git | GitHub | VS Code | Figma | Postman | Jupyter
 
 <h3 align="center">⭐ If you like my work, consider following me!</h3>
 
-<hr />
+---
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling" 
